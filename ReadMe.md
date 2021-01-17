@@ -8,4 +8,4 @@
 
 ## Tela de Login Instagram Mobile
 
- ![](D:\Andrey\Codificação\Instagram\img-resultado\Tela Login Mobile.png)
+ ![]https://github.com/Henrystt/Instagram-Login-Screen/blob/master/img-resultado/Tela%20Login%20Mobile.png)
