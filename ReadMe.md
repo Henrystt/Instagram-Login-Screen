@@ -1,6 +1,6 @@
 ## Tela de Login Instagram
 
-![Tela de Login versão Desktop](img-resultado\Tela login Desktop.png)
+![Tela de Login Desktop](https://github.com/[Henrystt]/[Instagram-Login-Screen]/blob/master/img-resultado/tela-login-desktop.png)
 
 
 
